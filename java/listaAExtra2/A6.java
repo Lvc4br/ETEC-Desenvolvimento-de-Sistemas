@@ -1,7 +1,7 @@
 package listaAExtra2;
 import java.util.Scanner;
 
-public class A1 {
+public class A6 {
 
     public static void main(String[] args) {
         double saldo, deb1, deb2, deb3;
