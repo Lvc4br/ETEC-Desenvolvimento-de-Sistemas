@@ -4,8 +4,6 @@ Repositório acadêmico com exercícios de Java realizados durante o curso Técn
 
 ## Arquitetura e organização
 
-## Arquitetura e organização
-
 ```mermaid
 flowchart TD
     A[Repository] --> B[java/]
@@ -29,7 +27,7 @@ ETEC-Desenvolvimento-de-Sistemas/
     └── gado_bianca.java
 ```
 
-A árvore pode conter outras listas ou arquivos conforme novas atividades forem adicionadas. Os nomes dos diretórios e arquivos são o índice principal; confira o conteúdo da atividade antes de executar.
+Consulte o [índice detalhado de exercícios em `java/README.md`](./java/README.md) para navegar pelas listas e pelos arquivos avulsos. A árvore pode crescer conforme novas atividades forem adicionadas; confira o conteúdo da atividade antes de executar.
 
 ## Objetivos de aprendizagem
 
