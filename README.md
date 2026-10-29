@@ -4,6 +4,18 @@ Repositório acadêmico com exercícios de Java realizados durante o curso Técn
 
 ## Arquitetura e organização
 
+## Arquitetura e organização
+
+```mermaid
+flowchart TD
+    A[Repository] --> B[java/]
+    B --> C[Exercise lists]
+    B --> D[Extra exercises]
+    C --> E[Independent .java files]
+    D --> E
+    E --> F[JDK: compile and run per exercise]
+```
+
 ```text
 ETEC-Desenvolvimento-de-Sistemas/
 └── java/
